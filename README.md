@@ -2,7 +2,8 @@
 
 A sleek and modern implementation of the classic Ping Pong (Pong) game using Python and Tkinter, featuring colorful visuals, smooth gameplay, and a smart AI opponent.
 
-![Game Screenshot](https://via.placeholder.com/800x400.png?text=Pong+Master+Game+Preview)
+![image](https://github.com/user-attachments/assets/cfcc8555-dde9-4998-b980-24e907798e95)
+
 
 ---
 
